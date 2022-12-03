@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/SocialNetworkTasks/static/css/main.54ffcf91.css",
-    "main.js": "/SocialNetworkTasks/static/js/main.d91b263e.js",
+    "main.css": "/SocialNetworkTasks/static/css/main.c3cdc575.css",
+    "main.js": "/SocialNetworkTasks/static/js/main.830e9d1f.js",
     "static/js/787.66cb4309.chunk.js": "/SocialNetworkTasks/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/SocialNetworkTasks/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/SocialNetworkTasks/index.html",
-    "main.54ffcf91.css.map": "/SocialNetworkTasks/static/css/main.54ffcf91.css.map",
-    "main.d91b263e.js.map": "/SocialNetworkTasks/static/js/main.d91b263e.js.map",
+    "main.c3cdc575.css.map": "/SocialNetworkTasks/static/css/main.c3cdc575.css.map",
+    "main.830e9d1f.js.map": "/SocialNetworkTasks/static/js/main.830e9d1f.js.map",
     "787.66cb4309.chunk.js.map": "/SocialNetworkTasks/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54ffcf91.css",
-    "static/js/main.d91b263e.js"
+    "static/css/main.c3cdc575.css",
+    "static/js/main.830e9d1f.js"
   ]
 }
